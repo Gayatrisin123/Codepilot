@@ -38,7 +38,7 @@ A real-time collaborative coding platform powered by AI, built with the MERN sta
 
 ---
 
-## 🎯 What is SOEN?
+## 🎯 What is Codepilot?
 
 SOEN is a cutting-edge web-based collaborative coding environment that combines the power of **AI code generation** with **real-time collaboration**. Write code together, get instant AI assistance, and execute your projects directly in the browser - no local setup required!
 
