@@ -1,4 +1,4 @@
-# 🚀 SOEN - AI-Powered Collaborative Code Workspace
+# 🚀 Codepilot - AI-Powered Collaborative Code Workspace
 
 
 <div align="center">
